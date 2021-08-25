@@ -1,8 +1,8 @@
-package Java;
+// package Java;
 
-public class Cash extends Payment{
+// public class Cash extends Payment{
 
-    public Cash(Payment id){
-        super(id);
-    }
-}
+//     public Cash(Payment id){
+//         super(id);
+//     }
+// }
